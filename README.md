@@ -1,8 +1,13 @@
 <h1 align="center">Your looking at the profile of: Ahmed Abduljader</h1>
-<h3 align="center">What am I? => Computer Science Student at York University</h3>
+<h3 align="center">Who am I? => Computer Science Student at York University</h3>
+
+<h2 align="left">Little Info on me:</h2>
+<p align="left">
+  You've probably seen at the start but I am currently a Cs Student at Yorku, I am just entering the world of code and trying to wrap my head around various topics, and pathways. I would be lying if I said I knew what I was doing, but I believe a step everyday in growing will lead to the success you desire! 
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedjader&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedjader" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedjader&label=Profile%20views&color=0e75b6&style=social" alt="ahmedjader" />
 </p>
 
 <h3 align="left">You Should Check Me Out On Linkedin!</h3>
@@ -57,5 +62,6 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedjader&show_icons=true&locale=en" alt="ahmedjader" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedjader&show_icons=true&locale=en&theme=dark" alt="ahmedjader" />
 </p>
+
