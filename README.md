@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Abduljader</h1>
-<h3 align="center">Computer Science Student at York University</h3>
+<h1 align="center">Your looking at the profile of: Ahmed Abduljader</h1>
+<h3 align="center">What am I? => Computer Science Student at York University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjader&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedjader" /> </p>
 
