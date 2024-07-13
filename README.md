@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedjader&label=Profile%20views&color=ffffff&style=social" alt="ahmedjader" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedjader&label=Profile%20views&color=blue&style=plastic" alt="ahmedjader" />
 </p>
-
 
 <h3 align="left">You Should Check Me Out On Linkedin!</h3>
 <p align="left">
