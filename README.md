@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedjader&show_icons=true&locale=en&theme=dark" alt="ahmedjader" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjader&theme=dark" alt="ahmedjader" /></p>
 
+<h4>Credits</h4>
+[This Readme was Generated using:](https://rahuldkjain.github.io/gh-profile-readme-generator/)
