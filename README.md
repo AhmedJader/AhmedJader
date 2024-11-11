@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjader&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedjader" /> </p>
 
-- 🌱 I’m currently learning **Next.js and backend auth routing**
+- Ctrl+hack+delete Best Security Hack by 1Password Winner [AnonAlyze] 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
