@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjader&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedjader" /> </p>
 
-- Ctrl+hack+delete Best Security Hack by 1Password Winner [AnonAlyze](https://github.com/AhmedJader/AnonAlyze)
+- CTRLHACKDEL Best Security Hack by 1Password Winner [AnonAlyze](https://github.com/AhmedJader/AnonAlyze)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
