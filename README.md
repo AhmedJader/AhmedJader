@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abduljader</h1>
 <h3 align="center">Computer Science Student at York University</h3>
 
-<p align="left"> <img src="../504a1f0e735c24559529631a62146a4c.gif" alt="ahmedjader" /> </p>
+<p align="left"> <img src="./tumblr_n9l9dqPoJM1shxu4jo1_500.gif" alt="ahmedjader" /> </p>
 
 - CTRLHACKDEL Best Security Hack by 1Password Winner [AnonAlyze](https://github.com/AhmedJader/AnonAlyze)
 
