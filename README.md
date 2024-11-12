@@ -3,14 +3,16 @@
 
 <p align="center"> <img src="./tumblr_n9l9dqPoJM1shxu4jo1_500.gif" alt="ahmedjader" /> </p>
 
+<div align="center">
 - CTRLHACKDEL Best Security Hack by 1Password Winner [AnonAlyze](https://github.com/AhmedJader/AnonAlyze)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/ahmed-abduljader-4464b325a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-abduljader-4464b325a/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
     <table>
         <tr align="center">
