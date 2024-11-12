@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ahmed Abduljader</h1>
-<h3 align="center">Computer Science Student at York University</h3>
+<h1 align="center">Ahmed Abduljader</h1>
+<div align="center">
+    <a href="https://github.com/AhmedJader" style="display: inline-block;">
+        <img src="https://readme-typing-svg.demolab.com?font=Lunasima&weight=900&duration=4000&pause=1000&color=ad5232&background=53348000&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+at+York+University" alt="Computer Science Student at York University">
+    </a>
+</div>
+
 
 <p align="center"> <img src="./tumblr_n9l9dqPoJM1shxu4jo1_500.gif" alt="ahmedjader" /> </p>
 
