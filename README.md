@@ -28,7 +28,7 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50px" height="50px" alt="Express.js">
             </td>
             <td width="70px" style="padding: 15px;">
-                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50px" height="50px" alt="Flask">
+                <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" width="50px" height="50px" alt="Flask">
             </td>
             <td width="70px" style="padding: 15px;">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50px" height="50px" alt="Git">
@@ -48,7 +48,7 @@
         </tr>
         <tr align="center">
             <td width="70px" style="padding: 15px;">
-                <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50px" height="50px" alt="Next.js">
+                <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="50px" height="50px" alt="Next.js">
             </td>
             <td width="70px" style="padding: 15px;">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px" alt="Node.js">
