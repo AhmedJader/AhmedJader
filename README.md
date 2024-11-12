@@ -11,8 +11,68 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+    <table>
+        <tr align="center">
+            <td width="70px" style="padding: 15px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50px" height="50px" alt="C#">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50px" height="50px" alt="Express.js">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50px" height="50px" alt="Flask">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50px" height="50px" alt="Git">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px" height="50px" alt="Java">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" height="50px" alt="JavaScript">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50px" height="50px" alt="MongoDB">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50px" height="50px" alt="MySQL">
+            </td>
+        </tr>
+        <tr align="center">
+            <td width="70px" style="padding: 15px;">
+                <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50px" height="50px" alt="Next.js">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50px" height="50px" alt="Node.js">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px" height="50px" alt="PostgreSQL">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50px" height="50px" alt="Postman">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" height="50px" alt="Python">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50px" height="50px" alt="React">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="50px" height="50px" alt="Selenium">
+            </td>
+            <td width="70px" style="padding: 15px;">
+                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50px" height="50px" alt="Tailwind CSS">
+            </td>
+        </tr>
+    </table>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedjader&show_icons=true&locale=en&layout=compact&theme=dark" alt="ahmedjader" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedjader&show_icons=true&locale=en&theme=dark" alt="ahmedjader" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjader&theme=dark" alt="ahmedjader" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedjader&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="300px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjader&theme=dark" alt="GitHub Streak" width="420px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjader&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
