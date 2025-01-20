@@ -16,6 +16,10 @@
 [SoundMates]</a>
 </div>
 
+<div align="center">UofTHacks 12 Hackathon Project<a href="https://github.com/HassanA01/UofTHacks12" target="blank">
+[UofTHacks12]</a>
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-abduljader-4464b325a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-abduljader-4464b325a/" height="30" width="40" /></a>
