@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">UofTHacks 12 Hackathon Project<a href="https://github.com/HassanA01/UofTHacks12" target="blank">
-[UofTHacks12]</a>
+[Broke2Woke]</a>
 </div>
 
 <h3 align="center">Connect with me:</h3>
