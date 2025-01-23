@@ -93,3 +93,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedjader&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="420px" height="180" />
     <img src="https://github-readme-stats.vercel.app/api?username=ahmedjader&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="420px" />
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedJader/AhmedJader/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedJader/AhmedJader/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedJader/AhmedJader/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
