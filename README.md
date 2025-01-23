@@ -88,6 +88,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ahmedjader&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="420px" />
 </p>
 
-<p align="center">
-</p>
+<div align="center">
+  <img alt="yurr" src="github-user-contribution.svg" />
+</div>
 
