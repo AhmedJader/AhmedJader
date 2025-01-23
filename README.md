@@ -21,10 +21,10 @@
 </div>
 
 ## 💫 About Me
-🔭 **Working on:** Full-Stack applications with real-world usage 
-🌱 **Learning:** Databases and Server-Side Authentication, Webhook Calls to API Endpoints, and Memorizing frontend-backend communication I keep forgetting LOL
-💬 **Ask me about:** anything media related, I consume HEAVY digital media.   
-⚡ **Fun fact:** I'm very passionate about art, I have a secret pinterest account, and love styling EVERYTHING.
+- 🔭 **Working on:** Full-Stack applications with real-world usage 
+- 🌱 **Learning:** Databases and Server-Side Authentication, Webhook Calls to API Endpoints, and Memorizing frontend-backend communication I keep forgetting LOL
+- 💬 **Ask me about:** anything media related, I consume HEAVY digital media.   
+- ⚡ **Fun fact:** I'm very passionate about art, I have a secret Pinterest account, and love styling EVERYTHING.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -95,6 +95,7 @@
 </p>
 
 <div align="center">
+  <h3 align="center">My Contribution Graphssssss...</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedJader/AhmedJader/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedJader/AhmedJader/output/github-contribution-grid-snake.svg" />
