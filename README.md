@@ -84,10 +84,10 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedjader&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="300px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedjader&theme=dark" alt="GitHub Streak" width="420px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedjader&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="420px" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmedjader&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="420px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedjader&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
+
