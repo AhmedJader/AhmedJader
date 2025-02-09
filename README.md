@@ -22,7 +22,7 @@
 
 ## 💫 About Me
 - 🔭 **Working on:** Full-Stack applications with real-world usage 
-- 🌱 **Learning:** Databases and Server-Side Authentication, Webhook Calls to API Endpoints, and Memorizing frontend-backend communication I keep forgetting LOL
+- 🌱 **Learning:** Trying to fully understand React, mastering state management, hooks, and advanced patterns for building scalable and efficient applications.
 - 💬 **Ask me about:** anything media related, I consume HEAVY digital media.   
 - ⚡ **Fun fact:** I'm very passionate about art, I have a secret Pinterest account, and love styling EVERYTHING.
 
