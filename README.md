@@ -16,7 +16,7 @@
 [AnonAlyze]</a>
 </div>
 
-<div align="center">YuLearn E-learning Platform Concept<a href="https://github.com/AhmedJader/YUlearn" target="blank">
+<div align="center">$600 Winner BEST Yorku University YuLearn E-learning Platform<a href="https://github.com/AhmedJader/YUlearn" target="blank">
 [YuLearn]</a>
 </div>
 
