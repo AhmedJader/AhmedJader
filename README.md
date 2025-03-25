@@ -8,6 +8,10 @@
 
 <p align="center"> <img src="./tumblr_n9l9dqPoJM1shxu4jo1_500.gif" alt="ahmedjader" /> </p>
 
+<div align="center">Latest: GENAI GENISIS (INTELLIEARTH)<a href="https://github.com/AhmedJader/GenAiHackathon" target="blank">
+[IntelliEarth]</a>
+</div>
+
 <div align="center">CTRLHACKDEL Best Security Hack by 1Password Winner<a href="https://github.com/AhmedJader/AnonAlyze" target="blank">
 [AnonAlyze]</a>
 </div>
