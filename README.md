@@ -8,6 +8,21 @@
 
 <p align="center"> <img src="./tumblr_n9l9dqPoJM1shxu4jo1_500.gif" alt="ahmedjader" /> </p>
 
+<div align="center">
+  Latest Hackathon Projects!
+  <a href="https://github.com/AhmedJader/GenAiHackathon" target="blank">[IntelliEarth]</a>
+</div>
+
+<br>
+
+<div align="center">
+  Latest: (DevDoc) RAG + agentic AI assistant, embedded directly in VS Code as an extension!
+  <a href="https://github.com/AhmedJader/GenAiHackathon" target="blank">[DevDoc]</a>
+</div>
+<br>
+
+
+
 <div align="center">Latest: GENAI GENISIS (INTELLIEARTH)<a href="https://github.com/AhmedJader/GenAiHackathon" target="blank">
 [IntelliEarth]</a>
 </div>
