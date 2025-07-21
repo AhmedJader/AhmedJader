@@ -23,7 +23,7 @@
 
 
 
-<div align="center">Latest: GENAI GENISIS (INTELLIEARTH)<a href="https://github.com/AhmedJader/GenAiHackathon" target="blank">
+<div align="center">GENAI GENISIS (INTELLIEARTH)<a href="https://github.com/AhmedJader/GenAiHackathon" target="blank">
 [IntelliEarth]</a>
 </div>
 
