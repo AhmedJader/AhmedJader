@@ -16,7 +16,7 @@
 
 <div align="center">
   Latest: (DevDoc) RAG + agentic AI assistant, embedded directly in VS Code as an extension!
-  <a href="https://github.com/AhmedJader/GenAiHackathon" target="blank">[DevDoc]</a>
+  <a href="https://github.com/AhmedJader/DevDoc" target="blank">[DevDoc]</a>
 </div>
 <br>
 
