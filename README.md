@@ -44,10 +44,10 @@
 
 
 ## 💫 About Me
-- 🔭 **Working on:** Full-Stack applications with real-world usage 
-- 🌱 **Learning:** Trying to fully understand React, mastering state management, hooks, and advanced patterns for building scalable and efficient applications.
-- 💬 **Ask me about:** anything media related, I consume HEAVY digital media.   
-- ⚡ **Fun fact:** I'm very passionate about art, I have a secret Pinterest account, and love styling EVERYTHING.
+- 🔭 **Working on:** RAG AI AGENT tools 
+- 🌱 **Learning:** Trying to fully understand Agentic Tool Calls, mastering Backend Logic, RAG Pipelines, and advanced patterns for building scalable and efficient applications.
+- 💬 **Ask me about:** anime, I grew up watching it, ask me about my fav.   
+- ⚡ **Fun fact:** I'm very passionate about art, I have a secret Pinterest account, and love styling stuff.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
