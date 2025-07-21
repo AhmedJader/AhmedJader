@@ -10,7 +10,6 @@
 
 <div align="center">
   Latest Hackathon Projects!
-  <a href="https://github.com/AhmedJader/GenAiHackathon" target="blank">[IntelliEarth]</a>
 </div>
 
 <br>
