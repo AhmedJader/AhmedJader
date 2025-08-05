@@ -15,12 +15,15 @@
 <br>
 
 <div align="center">
-  Latest: (DevDoc) RAG + agentic AI assistant, embedded directly in VS Code as an extension!
-  <a href="https://github.com/AhmedJader/DevDoc" target="blank">[DevDoc]</a>
+  Latest: Agentic AI fitness App with real-time Computer Vision form correction, 3D visuals, and Integrated Google environment scheduling.
+  <a href="https://github.com/AhmedJader/Arnold-AI" target="blank">[Arnold AI]</a>
 </div>
 <br>
 
 
+<div align="center">(DevDoc) RAG + agentic AI assistant, embedded directly in VS Code as an extension!<a href="https://github.com/AhmedJader/DevDoc" target="blank">
+[DevDoc]</a>
+</div>
 
 <div align="center">GENAI GENISIS (INTELLIEARTH)<a href="https://github.com/AhmedJader/GenAiHackathon" target="blank">
 [IntelliEarth]</a>
