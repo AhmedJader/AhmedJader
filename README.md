@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  Latest: Agentic AI fitness App with real-time Computer Vision form correction, 3D visuals, and Integrated Google environment scheduling.
+  Latest: Agentic AI fitness App with Computer Vision form correction, 3D visuals, and Integrated Google environment scheduling.
   <a href="https://github.com/AhmedJader/Arnold-AI" target="blank">[Arnold AI]</a>
 </div>
 <br>
