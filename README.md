@@ -47,7 +47,7 @@
 
 
 ## 💫 About Me
-- 🔭 **Working on:** RAG AI AGENT tools 
+- 🔭 **Working on:** Building backend services
 - 🌱 **Learning:** Trying to fully understand Agentic Tool Calls, mastering Backend Logic, RAG Pipelines, and advanced patterns for building scalable and efficient applications.
 - 💬 **Ask me about:** anime, I grew up watching it, ask me about my fav.   
 - ⚡ **Fun fact:** I'm very passionate about art, I have a secret Pinterest account, and love styling stuff.
