@@ -120,11 +120,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ahmedjader&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="420px" />
 </p>
 
-<div align="center">
-  <h3 align="center">My Contribution Graphssssss...</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedJader/AhmedJader/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedJader/AhmedJader/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AhmedJader/AhmedJader/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
