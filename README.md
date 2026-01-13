@@ -21,11 +21,11 @@
 <br>
 
 
-<div align="center">(DevDoc) RAG + agentic AI assistant, embedded directly in VS Code as an extension!<a href="https://github.com/AhmedJader/DevDoc" target="blank">
+<div align="center">(DevDoc 1700+ installs) RAG + agentic AI assistant, embedded directly in VS Code as an extension!<a href="https://github.com/AhmedJader/DevDoc" target="blank">
 [DevDoc]</a>
 </div>
 
-<div align="center">GENAI GENISIS (INTELLIEARTH)<a href="https://github.com/AhmedJader/GenAiHackathon" target="blank">
+<div align="center">GENAI GENISIS (INTELLIEARTH) 6 Self-Hosted Rag LLM Pipeline Agentic Tutor with agentic tasks<a href="https://github.com/AhmedJader/GenAiHackathon" target="blank">
 [IntelliEarth]</a>
 </div>
 
